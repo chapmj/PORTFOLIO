@@ -6,4 +6,4 @@
 
 * [bacon-roaster](https://github.com/chapmj/bacon-roaster) Designed to simulate an ASTM1394 client. Written in python.  This is a small side-project. ASTM1394 is the standard protocol for transferring data between Clinical Laboratory medical devices.
 
-* [socket-ai] (https://github.com/chapmj/coursework/tree/master/socket-ai) Simple server written in ABCL (Lisp).
+* [socket-ai](https://github.com/chapmj/coursework/tree/master/socket-ai) Simple server written in ABCL (Lisp).
