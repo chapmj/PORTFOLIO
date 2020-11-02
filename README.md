@@ -7,6 +7,6 @@
 
 * [map-reduce-cluster](https://github.com/chapmj/map-reduce-cluster) An akka cluster implmentation of distributed map-reduce.  It is part of my Distributed Systems coursework.
 
-* [bacon-roaster](https://github.com/chapmj/bacon-roaster) Designed to simulate an ASTM1394 client. Written in python.  This is a small side-project. ASTM1394 is the standard protocol for transferring data between Clinical Laboratory medical devices.
+* [PotBelly-DeviceSimulator](https://github.com/chapmj/Potbelly-DeviceSimulator) Designed to simulate an ASTM1394 client. Written in python.  This is a small side-project. ASTM1394 is the standard protocol for transferring data between Clinical Laboratory medical devices.
 
 * [barnacle-discord-bot](https://github.com/chapmj/Barnacle-Discord-Bot), a chat-bot based on Reactive API.
